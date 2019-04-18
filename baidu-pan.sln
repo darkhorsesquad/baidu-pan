@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baidu-panApplication", "baidu-panApplication\baidu-panApplication.csproj", "{913327B8-7DAD-4BDF-A896-A73B0CC339B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{910D2A75-8796-4367-8D84-7C4EAEA58D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913327B8-7DAD-4BDF-A896-A73B0CC339B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913327B8-7DAD-4BDF-A896-A73B0CC339B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913327B8-7DAD-4BDF-A896-A73B0CC339B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913327B8-7DAD-4BDF-A896-A73B0CC339B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910D2A75-8796-4367-8D84-7C4EAEA58D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910D2A75-8796-4367-8D84-7C4EAEA58D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910D2A75-8796-4367-8D84-7C4EAEA58D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910D2A75-8796-4367-8D84-7C4EAEA58D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
